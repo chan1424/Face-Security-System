@@ -1,0 +1,16 @@
+# 기본 numerical / 이미지 처리
+numpy==1.3.XX
+Pillow==12.0.0
+opencv-python
+
+# 얼굴 인식 관련
+dlib==19.24.99
+face_recognition==1.3.0
+face_recognition_models==0.3.0
+
+# YOLOv11 (ultralytics)
+ultralytics
+
+# (face_recognition에서 내부적으로 사용, 보통 자동으로 같이 설치되지만 명시)
+click
+colorama

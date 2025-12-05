@@ -1,0 +1,5 @@
+# Python 가상 환경 폴더 무시
+.venv/
+
+#data
+me_camera.jpg
